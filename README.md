@@ -16,7 +16,7 @@ Este proyecto es una solución completa de comercio electrónico diseñada para 
 ## 🛠️ Instalación y Uso
 1.  Clonar el repositorio:
     ```bash
-    git clone [https://github.com/tu-usuario/tu-repo.git](https://github.com/tu-usuario/tu-repo.git)
+    git clone [[https://github.com/patinoislaneithan-lgtm/Python-automation-suite/tree/main]]
     ```
 2.  Instalar dependencias:
     ```bash
